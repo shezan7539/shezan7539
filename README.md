@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @shezan7539
-- 👀 I’m interested in Hacking ...
-- 🌱 I’m currently learning Facebook Hacking...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🚀 Passionate about building software that makes life easier.
+🎓 Student | 💻 Aspiring Developer | 🐧 Linux Enthusiast
 
-<!---
-shezan7539/shezan7539 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently learning Python, automation, and system customization
+
+🔭 Working on Telegram bots, Linux/Windows customization, and personal projects
+
+🛠️ Interests: Open-source, automation, AI, and UI/UX optimization
+
+🌐 Portfolio: shezanbd.netlify.app
+
+📫 Reach me at: (shezan@duck.com)
