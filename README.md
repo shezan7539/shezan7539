@@ -1,12 +1,7 @@
-🚀 Passionate about building software that makes life easier.
-🎓 Student | 💻 Aspiring Developer | 🐧 Linux Enthusiast
+### Hey！ 👋
 
-🌱 Currently learning Python, automation, and system customization
-
-🔭 Working on Telegram bots, Linux/Windows customization, and personal projects
-
-🛠️ Interests: Open-source, automation, AI, and UI/UX optimization
-
-🌐 Portfolio: shezanbd.netlify.app
-
-📫 Reach me at: (shezan@duck.com)
+<a href="https://github.com/dudu200849">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shezan7539&include_all_commits=true&show_icons=true" />
+</a> <a href="https://github.com/shezan7539">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shezan7539" />
+</a>
